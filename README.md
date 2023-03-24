@@ -1,0 +1,2 @@
+# publico
+esto es un repositorio publico
